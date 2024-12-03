@@ -1,0 +1,24 @@
+.box {
+  display: flex;
+  align-items: center;
+}
+.boxContact {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text {
+}
+.btnClear {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 60px;
+  height: 30px;
+  margin-left: auto;
+  border-radius: 4px;
+  border: none;
+  cursor: pointer;
+  background-color: teal;
+  color: white;
+}
