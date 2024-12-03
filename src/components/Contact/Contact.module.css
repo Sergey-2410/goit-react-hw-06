@@ -22,3 +22,6 @@
   background-color: teal;
   color: white;
 }
+.btnClear:hover {
+  background-color: rgb(163, 28, 28);
+}

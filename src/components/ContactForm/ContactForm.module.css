@@ -35,3 +35,6 @@
   max-width: 150px;
   cursor: pointer;
 }
+.btnSubmit:hover {
+  background-color: rgb(72, 182, 182);
+}
